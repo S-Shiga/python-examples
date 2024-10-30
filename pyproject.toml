@@ -1,0 +1,7 @@
+[project]
+# Name of the project
+# It can have a `-`.
+name = "python-examples"
+description = "Description of the project python-examples"
+# Requirements for the version of Python
+requires-python = ">= 3.8"
